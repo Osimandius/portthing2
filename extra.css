@@ -1,0 +1,18 @@
+h1 {
+    color:rgb(134, 103, 0)
+}
+/* {
+    border : solid
+}*/
+body{
+    background-color: cyan;
+}
+.hamm{
+    background-color: fuchsia;
+}
+.yeet{
+    background-color:darkslategrey;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
